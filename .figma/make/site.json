@@ -1,0 +1,11 @@
+{
+  "title": "FixGenie",
+  "description": "Streamline campus maintenance by enabling students, staff, and workers to report, track, and resolve facility issues efficiently with real-time updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
